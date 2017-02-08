@@ -1,5 +1,5 @@
 package test;
 
-public class main {
-  //Comment - version 2
+public class Main {
+
 }
